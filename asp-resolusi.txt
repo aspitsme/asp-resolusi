@@ -1,0 +1,3 @@
+ASP Resolusi
+  - Konsisten mengupgrade skill
+  - Terjadwal
