@@ -1,4 +1,4 @@
 ASP Resolusi
   - Konsisten mengupgrade skill
-  - Terjadwal
   - Menjadi seorang front-end dev
+  - Belajar Python
