@@ -2,3 +2,4 @@ ASP Resolusi
   - Konsisten mengupgrade skill
   - Menjadi seorang front-end dev
   - Belajar Python
+  - Belajar Java Script
